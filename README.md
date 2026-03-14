@@ -1,16 +1,23 @@
-## Hi there 👋
+# VxCypher
 
-<!--
-**VxCypher/VxCypher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems | Security | Research
 
-Here are some ideas to get you started:
+I explore systems, automation, and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+• OSINT research  
+• network analysis  
+• scripting and automation  
+• system architecture
+
+## Projects
+
+vxtrace – metadata investigation toolkit  
+vxrecon – OSINT reconnaissance utility  
+
+## Philosophy
+
+Understand the system.  
+Map the weaknesses.  
+Build something better.
